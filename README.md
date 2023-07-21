@@ -12,4 +12,4 @@ I have successfully implemented the following techniques:
 The fully functional Dashboard where you can check Monthly, Quarterly and Yearly Sales and Revenue
 Sales by product , Sales By Region, Top 5 products , Top 5 customers
 
-all this project has been done with the help of codebasics
+all this project has been done with the help of codebasics 
